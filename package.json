@@ -43,7 +43,7 @@
     "karma-coverage-istanbul-reporter": "2.0.5",
     "karma-jasmine": "2.0.1",
     "karma-jasmine-html-reporter": "1.4.2",
-    "lodash": "4.17.14",
+    "lodash": "4.17.21",
     "prettier": "1.18.2",
     "protractor": "5.4.2",
     "rimraf": "2.6.3",
